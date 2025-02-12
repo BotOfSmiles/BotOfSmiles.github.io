@@ -15,4 +15,6 @@
 **!headpat - all users**   
 &nbsp;&nbsp;&nbsp;&nbsp; Show some love and give Quinn a headpat!   
 **!followage - all users**   
-&nbsp;&nbsp;&nbsp;&nbsp; Check how long you've been following. 
+&nbsp;&nbsp;&nbsp;&nbsp; Check how long you've been following.   
+**!Quinn - all users**   
+&nbsp;&nbsp;&nbsp;&nbsp; Give some love to quinn!   
